@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace valuetypes
 {
-    class Program
+    class ValueTypes
     {
         enum MyEnum
         {
