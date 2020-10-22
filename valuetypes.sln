@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classandobject", "classandobject\classandobject.csproj", "{550A8C6E-4CD2-47B5-AD39-F4099D6B6558}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classandobjcet_2", "classandobjcet_2\classandobjcet_2.csproj", "{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{550A8C6E-4CD2-47B5-AD39-F4099D6B6558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{550A8C6E-4CD2-47B5-AD39-F4099D6B6558}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{550A8C6E-4CD2-47B5-AD39-F4099D6B6558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
