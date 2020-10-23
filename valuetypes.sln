@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classandobject", "classando
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classandobjcet_2", "classandobjcet_2\classandobjcet_2.csproj", "{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{24A157DC-5DE6-47BB-849D-AC638EF006DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DCC2E0C-B3EB-4B55-A5E2-B79D8C80AD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A157DC-5DE6-47BB-849D-AC638EF006DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A157DC-5DE6-47BB-849D-AC638EF006DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A157DC-5DE6-47BB-849D-AC638EF006DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A157DC-5DE6-47BB-849D-AC638EF006DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
