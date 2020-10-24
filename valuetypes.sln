@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classandobjcet_2", "classan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{24A157DC-5DE6-47BB-849D-AC638EF006DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{2A6FCA38-89DE-44B4-A57A-3325CBE7549E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{24A157DC-5DE6-47BB-849D-AC638EF006DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A157DC-5DE6-47BB-849D-AC638EF006DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A157DC-5DE6-47BB-849D-AC638EF006DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6FCA38-89DE-44B4-A57A-3325CBE7549E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6FCA38-89DE-44B4-A57A-3325CBE7549E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6FCA38-89DE-44B4-A57A-3325CBE7549E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6FCA38-89DE-44B4-A57A-3325CBE7549E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
