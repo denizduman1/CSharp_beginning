@@ -26,7 +26,6 @@ namespace classandobjcet_2
 
     interface Person2
     {
-
     }
 
     class Database
