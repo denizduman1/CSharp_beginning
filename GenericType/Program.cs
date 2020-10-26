@@ -23,6 +23,7 @@ namespace GenericType
             {
                 Console.WriteLine(item);
             }
+       
         }
     }
     class GenericType
@@ -32,4 +33,41 @@ namespace GenericType
            return new List<T>(items);
         }
     }
+
+    interface ICustomer<T> where T:class,new()
+    {
+        List<T> GetCustomer();
+        void AddCustomer(T entity);
+        void UpdateCustomer(T entity);
+        void DeleteCustomer(T entity);
+    }
+
+    class Customer
+    {
+
+    }
+
+    class CustomerDAL : ICustomer<Customer>
+    {
+        public void AddCustomer(Customer entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void DeleteCustomer(Customer entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Customer> GetCustomer()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void UpdateCustomer(Customer entity)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
 }
